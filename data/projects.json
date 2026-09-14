@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "Full-stack e-commerce platform built with React, Node.js, and AWS services. Features include product catalog, shopping cart, payment processing with Stripe, and admin dashboard for inventory management.",
+    "techStack": ["React", "Node.js", "AWS", "PostgreSQL", "Stripe"],
+    "demoUrl": "https://ecommerce-demo.abhinav.com",
+    "githubUrl": "https://github.com/abhinavpadige4/ecommerce-platform",
+    "image": "/projects/ecommerce.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Real-time Chat Application",
+    "description": "Scalable real-time chat application using WebSocket technology. Supports room-based chatting, file sharing, and user authentication with JWT. Deployed on AWS EC2 with auto-scaling.",
+    "techStack": ["React", "Node.js", "WebSocket", "AWS", "Redis", "JWT"],
+    "demoUrl": "https://chat-demo.abhinav.com",
+    "githubUrl": "https://github.com/abhinavpadige4/realtime-chat",
+    "image": "/projects/chat.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Data Analytics Dashboard",
+    "description": "Interactive data analytics dashboard for business intelligence. Features real-time data visualization, custom report generation, and export capabilities. Built with Python backend and React frontend.",
+    "techStack": ["Python", "React", "AWS", "D3.js", "PostgreSQL"],
+    "demoUrl": "https://analytics-demo.abhinav.com",
+    "githubUrl": "https://github.com/abhinavpadige4/analytics-dashboard",
+    "image": "/projects/analytics.jpg"
+  }
+]
